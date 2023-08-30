@@ -1,5 +1,0 @@
-{{#user}}
-Name: Priyanshu Tiwari
-Skills: HTML, CSS, Python, AI
-Email: tpriyanshu01@gmail.com
-{{/user}}
